@@ -1,6 +1,6 @@
 - 👋🏼 Hi, I’m Deepak, @d02d33pak on internet
 - 👀 I’m interested in Fullstack, Sports and Music
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Vue3, GraphQL
 - 👾 I’m looking to collaborate on Vue and JS libraries
 - 🤙🏼 Reach out to me on Twitter @d02d33pak
 
